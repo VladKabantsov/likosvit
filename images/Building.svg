@@ -1,0 +1,89 @@
+<svg width="30" height="34" viewBox="0 0 30 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Building</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-5061 -330)">
+<g id="Building">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(5062 331)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5064.07 348.311)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5067.19 348.311)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5064.07 353.033)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5067.19 353.033)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5064.07 357.754)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5067.19 357.754)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5082.74 348.311)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5085.85 348.311)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5082.74 343.59)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5085.85 343.59)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5082.74 353.033)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5085.85 353.033)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5082.74 357.754)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5085.85 357.754)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5073.41 347.262)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5076.52 347.262)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5073.41 342.016)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5076.52 342.016)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5073.41 352.508)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5076.52 352.508)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5073.41 357.754)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle path">
+<use xlink:href="#path1_fill" transform="translate(5076.52 357.754)" fill="#FFFFFF"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_stroke" transform="translate(5071.59 341.579)" fill="#FFFFFF"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_stroke" transform="translate(5080.41 336.902)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 18.6667 5.77049L 17.6667 5.77049L 17.6667 6.41728L 18.2566 6.68253L 18.6667 5.77049ZM 17.6296 0L 17.6296 -1L 17.365 -1L 17.135 -0.869119L 17.6296 0ZM 9.33333 4.72131L 8.83873 3.85219L 8.33333 4.13981L 8.33333 4.72131L 9.33333 4.72131ZM 9.33333 10.4918L 9.8233 11.3635L 10.3333 11.0769L 10.3333 10.4918L 9.33333 10.4918ZM 0 15.7377L -0.48997 14.866L -1 15.1526L -1 15.7377L 0 15.7377ZM 28 9.96721L 29 9.96721L 29 9.32042L 28.4101 9.05517L 28 9.96721ZM 19.6667 5.77049L 19.6667 1.04918L 17.6667 1.04918L 17.6667 5.77049L 19.6667 5.77049ZM 19.6667 1.04918C 19.6667 -0.0712445 18.7653 -1 17.6296 -1L 17.6296 1C 17.6347 1 17.6373 1.00082 17.6396 1.00178C 17.6425 1.00304 17.6469 1.00564 17.6516 1.01039C 17.6608 1.0197 17.6667 1.03195 17.6667 1.04918L 19.6667 1.04918ZM 17.135 -0.869119L 8.83873 3.85219L 9.82794 5.59043L 18.1242 0.869119L 17.135 -0.869119ZM 8.33333 4.72131L 8.33333 10.4918L 10.3333 10.4918L 10.3333 4.72131L 8.33333 4.72131ZM 8.84336 9.62006L -0.48997 14.866L 0.48997 16.6094L 9.8233 11.3635L 8.84336 9.62006ZM -1 15.7377L -1 30.9508L 1 30.9508L 1 15.7377L -1 15.7377ZM -1 30.9508C -1 32.0712 -0.0986357 33 1.03704 33L 1.03704 31C 1.032 31 1.02933 30.9992 1.02709 30.9982C 1.02415 30.997 1.01976 30.9944 1.01506 30.9896C 1.00585 30.9803 1 30.9681 1 30.9508L -1 30.9508ZM 1.03704 33L 26.963 33L 26.963 31L 1.03704 31L 1.03704 33ZM 26.963 33C 28.0986 33 29 32.0712 29 30.9508L 27 30.9508C 27 30.9681 26.9941 30.9803 26.9849 30.9896C 26.9802 30.9944 26.9758 30.997 26.9729 30.9982C 26.9707 30.9992 26.968 31 26.963 31L 26.963 33ZM 29 30.9508L 29 9.96721L 27 9.96721L 27 30.9508L 29 30.9508ZM 28.4101 9.05517L 19.0768 4.85845L 18.2566 6.68253L 27.5899 10.8793L 28.4101 9.05517Z"/>
+<path id="path1_fill" d="M 2.07407 0L 0 0L 0 3.67213L 2.07407 3.67213L 2.07407 0Z"/>
+<path id="path2_stroke" d="M -0.500001 -9.60553e-08L -0.500001 20.9836L 0.499999 20.9836L 0.499999 -9.60553e-08L -0.500001 -9.60553e-08Z"/>
+<path id="path3_stroke" d="M -0.500001 0L -0.500001 25.6614L 0.499999 25.6614L 0.499999 0L -0.500001 0Z"/>
+</defs>
+</svg>
