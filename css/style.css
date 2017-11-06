@@ -9,15 +9,22 @@ body{
 
 /*HEADER*/
 .container{
+  position: relative;
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
+.head{
+  position: relative;
+  max-width: 1450px;
+  margin: 0 auto;
+}
+
 
 
 .contacts{
-  background: url(../images/Clouds.svg) no-repeat;
+  background: url(../images/Clouds.svg) center;
   height: 200px;
 }
 
@@ -104,39 +111,35 @@ body{
  /* width: 208px;
   height: 47px;
   */
-  padding-top: 12px;
-  padding-bottom: 12px;
-  padding-left: 28px;
-  padding-right: 55px;
-  background: #3B5998;
-  border-radius: 8px;
-  color: #FFF;
-  text-decoration: none;
-  font-weight: 600;
-  letter-spacing: 0.5px;
+    padding-top: 19px;
+    padding-bottom: 13px;
+    padding-left: 28px;
+    padding-right: 19px;
+    background: #3B5998;
+    border-radius: 8px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 0.5px;
 }
 
 .butt_fb:hover{
   text-decoration: none;
   color: #FFF;
 }
-
-.letter_f{
-    position: absolute;
+.butt_fb::after{
+    content: "f";
     font-weight: bold;
-    top: -5px;
-    left: 174px;
-    width: 26px;
-    height: 25px;
-    padding-left: 9px;
-    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
     background-color: #FFF;
     color: #3B5998;
     border-radius: 4px;
-    font-style: bold;
     font-size: 25px;
 }
-
 
 .call_me{
   color:#8F59BB;
@@ -150,8 +153,8 @@ body{
 
 
 .menu1{
-    background: url(../images/Clouds.svg) no-repeat;
-    height: 200px;
+    background: url(../images/Clouds.svg) center;
+    height: 190px;
     position: absolute;
     width: 100%;
     z-index: -1;
@@ -162,7 +165,7 @@ body{
 
 .menu_div{
   
-  top: 100px;
+  top: 80px;
   padding: 0;
 }
 
@@ -191,7 +194,8 @@ body{
 }
 
 .menu2{
-    background: url(../images/Rectangle.svg) no-repeat;
+    background: url(../images/Rectangle.svg) center no-repeat;
+    background-size: cover;
     height: 440px;
     position: absolute;
     width: 100%;
@@ -234,6 +238,8 @@ body{
 
 .about_filiya{
     background: url(../images/Vector.svg) no-repeat;
+    background-position-x: 53px;
+    background-position-y: -7px;
     margin-right: 30%;
     margin-left: 28%;
     margin-top: 298px;
@@ -256,7 +262,7 @@ body{
 }
 
 .news{
-    background: url(../images/Dots.svg) no-repeat;
+    background: url(../images/Group2.jpg) no-repeat;
     background-color: #8E74B1;
     
     margin-top: 50px;
@@ -359,8 +365,21 @@ body{
 }
 
 .back-advant{
-    position: relative;
-    text-align: center;
+       background: url(../images/Vector.svg) no-repeat;
+       background-position-x: 41px;
+      background-position-y: -7px;
+      margin-right: 30%;
+      margin-left: 28%;
+      margin-top: 20px;
+      height: 130px;
+      width: 629px;
+      top: 100px;
+      font-family: Koni;
+      line-height: normal;
+      font-size: 40px;
+      text-align: center;
+      letter-spacing: 0.8px;
+      color: #333333;
 }
 
 .our-advantages{
@@ -473,8 +492,10 @@ body{
 }
 .bottom-gal{
     position: absolute;
-    top: 300px;
+    top: 365px;
+    height: 272px;
     background-image: url(../images/back-bottom-gal.svg);
+    background-size: cover;
 }
 
 .text-bottom-ab{
@@ -669,3 +690,90 @@ src: url("../fonts/Averta.ttf") format("truetype");
 font-style: normal; 
 font-weight: normal; 
 } 
+
+@media screen and (max-device-width: 1025px) {
+    .about_filiya{
+      margin-left: 21%;
+      background-position-x: 30px;
+      background-position-y: -7px;
+    }
+
+    .logo-foot {
+      padding-left: 20px;
+     
+    }
+
+    .butt_venice-foot {
+          padding-left: 50px;
+          padding-right: 10px;
+    }
+
+    .our-advantages{
+      left: 8%;
+    }
+
+    .back-advant{
+      margin-left: 20%;
+    }
+
+    .menu-foot{
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .menu_div_position-foot{
+      margin-left: 28px;
+    }
+
+    .bottom-gal{
+      top:400px;
+    }
+
+}
+
+@media screen and (max-device-width: 769px) {
+
+  .facebook_div{
+        margin-top: -27px;
+        padding-left: 153px;
+  }
+
+  .contact_div{
+    margin-top: 16px;
+    text-align: unset;
+  }
+
+  .phone_number{
+    margin-bottom: 0px;
+  }
+
+  .menu_div{
+    top:95px;
+  }
+
+  .menu{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .menu:nth-child(2) {
+    padding-right: 130px;
+  }
+
+  .menu:nth-child(3) {
+      padding-left: 130px;
+  }
+
+  .menu2_link{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 17px;
+  }
+
+  .about_filiya{
+    margin-left: 12%;
+  }
+}
+
+
+
