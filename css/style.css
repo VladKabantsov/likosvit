@@ -771,9 +771,193 @@ font-weight: normal;
   }
 
   .about_filiya{
+    background-size: 547px;
     margin-left: 12%;
+    background-position-x: 80px;
+    background-position-y: 1px;
+  }
+
+  .news-block{
+    text-align: center;
+    margin: 0 auto;
+    width: 66%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: -36px;
+    padding-bottom: 35px;
+  }
+
+  .news{
+    background: url(../images/Group2.jpg);
+  }
+
+  .back-advant{
+
+    background-size: 547px;
+    margin-left: 12%;
+    background-position-x: 80px;
+    background-position-y: 1px;
+  }
+
+  .advant-imgs{
+    padding-top: 0;
+  }
+
+  .advant-imgs .col-md-2 {
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-bottom: 10px;
+  }
+
+  .about-head{
+      font-size: 30px;
+      padding-top: 70px;
+  }
+  .about-text{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 19px;
+    padding-bottom: 30px;
+  }
+
+  .btn-foot {
+    padding-left: 40px;
+  }
+
+  .menu-foot{
+    top: -215px;
+    left: 165px;
+  }
+
+  #second_butt_venice{
+    left: 450px;
+    top: -27px;
+    width: 200px;
+    margin: 0px;
+ }
+
+  .airplane{
+    width:200px;
+    right: 0;
+  }
+
+  .karuselka{
+    width: 500px;
+  }
+
+  .bottom-gal {
+    top: 325px;
+  }
+
+  .advant-airplane{
+    right: 1px;
   }
 }
 
 
+@media screen and (max-device-width: 426px) {
+
+
+  .butt_venice{
+      font-size: 10px;
+      padding-left: 50px;
+  }
+
+  .but_ven {
+      margin-top: 20px;
+
+  }
+
+  .phone_number{
+        font-size: 10px;
+  }
+
+  .bold_phone_number {
+    font-size: 15px;
+  }
+
+  .call_me {
+    font-size: 10px;
+  }
+
+  .butt_fb{
+    font-size: 10px;
+    font-weight: normal;
+    padding-top: 13px;
+    padding-bottom: 7px;
+    padding-left: 13px;
+    padding-right: 7px;
+  }
+  .butt_fb::after{
+    width: 10px;
+    height: 10px;
+    font-size: 10px;
+  }
+  .facebook_div{
+    padding-left: 13px;
+    margin-top: 13px;
+    width: 100%;
+  }
+  .contact_div{
+    width: 100%;
+  }
+
+  .img_logo {
+    width: 100px;
+  }
+
+   .logotype_div {
+      top: 57px;
+      left: 75px;
+      width: 150px;
+      margin-right: 0;
+  }
+
+  .menu{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+  }
+
+  .menu:nth-child(2) {
+    padding-right: 0px;
+  }
+
+  .menu:nth-child(3) {
+    padding-left: 0px;
+  }
+  .menu_div_position{
+    justify-content: space-between;
+  }
+
+  .contacts{
+   /* background-size: cover;
+  */
+  }
+  .menu2_link {
+      font-size: 10px;
+  }
+
+  .about_filiya{
+    background-size: 300px;
+    margin-left: -11%;
+    font-size: 20px;
+    height: 130px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 300px;
+    background-position-x: 38px;
+    background-position-y: -1px;
+  }
+
+  .text_about_filiya{
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: -67px;
+  }
+
+
+
+}
 
